@@ -1,16 +1,16 @@
-| Task name | Paper of origin | Surface map |
-|---|---|---|
-| Self Task  | https://www.sciencedirect.com/science/article/pii/S1053810021000659 | ![Alt text](imgs/You_Task.png) |
-| Other Task  | https://www.sciencedirect.com/science/article/pii/S1053810021000659 | ![Alt text](imgs/Friend_Task.png) |
-| Go-NoGo Task | https://www.sciencedirect.com/science/article/pii/S1053810021000659 | ![Alt text](imgs/GoNoGo_Task.png) |
-| Finger Tapping Task | https://pubmed.ncbi.nlm.nih.gov/16934301/ | ![Alt text](imgs/Finger_Tapping_Task.png) |
-| Reading Task | https://elifesciences.org/articles/74011 | ![Alt text](imgs/Reading_Task.png) |
-| Memory Task | https://elifesciences.org/articles/74011 | ![Alt text](imgs/Memory_Task.png) |
-| Zero-Back Task | https://www.nature.com/articles/s41467-019-11764-y | ![Alt text](imgs/Zero-Back_Task.png) |
-| One-Back Task | https://www.nature.com/articles/s41467-019-11764-y | ![Alt text](imgs/One-Back_Task.png) |
-| Easy Math Task | https://www.sciencedirect.com/science/article/pii/S1053811920305607 | ![Alt text](imgs/Easy_Math_Task.png) |
-| Hard Math Task | https://www.sciencedirect.com/science/article/pii/S1053811920305607 | ![Alt text](imgs/Hard_Math_Task.png) |
-| Movie Task Bridgerton | https://www.sciencedirect.com/science/article/pii/S1053810021000659 | ![Alt text](imgs/Movie_Task-bridge.png) |
-| Movie Task Inception | https://www.sciencedirect.com/science/article/pii/S1053810021000659  | ![Alt text](imgs/Movie_Task-incept.png) |
-| Two-Back Task Faces | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011498/ | ![Alt text](imgs/Two-Back_Task-faces.png) |
-| Two-Back Task Places | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011498/ | ![Alt text](imgs/Two-Back_Task-scenes.png) |
+| Task name | Paper of origin | Map Description |Surface map |
+|---|---|---|---|
+| Self Task  | Konu, D., Mckeown, B., Turnbull, A., Ho, N. S. P., Karapanagiotidis, T., Vanderwal, T., McCall, C., Tipper, S. P., Jefferies, E., & Smallwood, J. (2021). Exploring patterns of ongoing thought under naturalistic and conventional task-based conditions. Consciousness and cognition, 93, 103139. |  |![Alt text](imgs/You_Task.png) |
+| Other Task  | Konu, D., Mckeown, B., Turnbull, A., Ho, N. S. P., Karapanagiotidis, T., Vanderwal, T., McCall, C., Tipper, S. P., Jefferies, E., & Smallwood, J. (2021). Exploring patterns of ongoing thought under naturalistic and conventional task-based conditions. Consciousness and cognition, 93, 103139. |  | ![Alt text](imgs/Friend_Task.png) |
+| Go-NoGo Task | Konu, D., Mckeown, B., Turnbull, A., Ho, N. S. P., Karapanagiotidis, T., Vanderwal, T., McCall, C., Tipper, S. P., Jefferies, E., & Smallwood, J. (2021). Exploring patterns of ongoing thought under naturalistic and conventional task-based conditions. Consciousness and cognition, 93, 103139. |  | ![Alt text](imgs/GoNoGo_Task.png) |
+| Finger Tapping Task | Livesey, A. C., Wall, M. B., & Smith, A. T. (2007). Time perception: manipulation of task difficulty dissociates clock functions from other cognitive demands. Neuropsychologia, 45(2), 321-331.  |  | ![Alt text](imgs/Finger_Tapping_Task.png) |
+| Reading Task | Zhang, M., Bernhardt, B. C., Wang, X., Varga, D., Krieger-Redwood, K., Royer, J., Rodríguez-Cruces, R., de Wael, R. V., Margulies, D. S., & Smallwood, J. (2022). Perceptual coupling and decoupling of the default mode network during mind-wandering and reading. Elife, 11, e74011.  |  | ![Alt text](imgs/Reading_Task.png) |
+| Memory Task | Zhang, M., Bernhardt, B. C., Wang, X., Varga, D., Krieger-Redwood, K., Royer, J., Rodríguez-Cruces, R., de Wael, R. V., Margulies, D. S., & Smallwood, J. (2022). Perceptual coupling and decoupling of the default mode network during mind-wandering and reading. Elife, 11, e74011.  |  | ![Alt text](imgs/Memory_Task.png) |
+| Zero-Back Task | Turnbull, A., Wang, H., Murphy, C., Ho, N., Wang, X., Sormaz, M., Karapanagiotidis, T., Leech, R., Bernhardt, B., & Margulies, D. (2019). Left dorsolateral prefrontal cortex supports context-dependent prioritisation of off-task thought. Nature communications, 10(1), 3816.  |  | ![Alt text](imgs/Zero-Back_Task.png) |
+| One-Back Task | Turnbull, A., Wang, H., Murphy, C., Ho, N., Wang, X., Sormaz, M., Karapanagiotidis, T., Leech, R., Bernhardt, B., & Margulies, D. (2019). Left dorsolateral prefrontal cortex supports context-dependent prioritisation of off-task thought. Nature communications, 10(1), 3816.  |  | ![Alt text](imgs/One-Back_Task.png) |
+| Easy Math Task | Wang, X., Margulies, D. S., Smallwood, J., & Jefferies, E. (2020). A gradient from long-term memory to novel cognition: Transitions through default mode and executive cortex. NeuroImage, 220, 117074.  |  | ![Alt text](imgs/Easy_Math_Task.png) |
+| Hard Math Task | Wang, X., Margulies, D. S., Smallwood, J., & Jefferies, E. (2020). A gradient from long-term memory to novel cognition: Transitions through default mode and executive cortex. NeuroImage, 220, 117074.  |  | ![Alt text](imgs/Hard_Math_Task.png) |
+| Movie Task Bridgerton | Konu, D., Mckeown, B., Turnbull, A., Ho, N. S. P., Karapanagiotidis, T., Vanderwal, T., McCall, C., Tipper, S. P., Jefferies, E., & Smallwood, J. (2021). Exploring patterns of ongoing thought under naturalistic and conventional task-based conditions. Consciousness and cognition, 93, 103139. |  | ![Alt text](imgs/Movie_Task-bridge.png) |
+| Movie Task Inception | Konu, D., Mckeown, B., Turnbull, A., Ho, N. S. P., Karapanagiotidis, T., Vanderwal, T., McCall, C., Tipper, S. P., Jefferies, E., & Smallwood, J. (2021). Exploring patterns of ongoing thought under naturalistic and conventional task-based conditions. Consciousness and cognition, 93, 103139.  |  | ![Alt text](imgs/Movie_Task-incept.png) |
+| Two-Back Task Faces | Barch, D. M., Burgess, G. C., Harms, M. P., Petersen, S. E., Schlaggar, B. L., Corbetta, M., Glasser, M. F., Curtiss, S., Dixit, S., & Feldt, C. (2013). Function in the human connectome: task-fMRI and individual differences in behavior. NeuroImage, 80, 169-189.  |  | ![Alt text](imgs/Two-Back_Task-faces.png) |
+| Two-Back Task Places | Barch, D. M., Burgess, G. C., Harms, M. P., Petersen, S. E., Schlaggar, B. L., Corbetta, M., Glasser, M. F., Curtiss, S., Dixit, S., & Feldt, C. (2013). Function in the human connectome: task-fMRI and individual differences in behavior. NeuroImage, 80, 169-189.  |  | ![Alt text](imgs/Two-Back_Task-scenes.png) |
